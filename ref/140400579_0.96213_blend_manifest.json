@@ -1,0 +1,24 @@
+{
+  "competition": "playground-series-s6e10",
+  "method": "99.9% percentile-rank Secrets V14 + 0.1% percentile-rank Orange V15",
+  "rows": 299844,
+  "weights": [
+    0.999,
+    0.001
+  ],
+  "sources": [
+    {
+      "notebook": "yeashusemwal/secrets-to-satisfaction-it-s-stacking",
+      "script_version_id": 361205284,
+      "source_public_auc": 0.96213,
+      "sha256": "6e421a09f5bb7640404166e56b608c21ef9d0c46aae9e6dd45844ebb51fd4704"
+    },
+    {
+      "notebook": "ou20040313/s6e10-orange-blend",
+      "script_version_id": 357658334,
+      "source_public_auc": 0.96187,
+      "sha256": "627182265e34113237cd57b7788f4e33cf5ed06c70115dfc70c6dece835d5bf1"
+    }
+  ],
+  "submission_sha256": "23b643135b75e8952134c13046928d8d40bdb05c29fa69916966b648cac049e8"
+}
